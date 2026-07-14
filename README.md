@@ -77,7 +77,7 @@ Before you begin, ensure you have met the following requirements:
 Clone this repository:
 
 ```bash
-git clone https://github.com/SayamAlt/credit-card-approval-prediction.git
+git clone https://github.com/153-pavi/credit-card-approval-prediction.git
 ```
 
 Navigate to the project directory:
