@@ -12,7 +12,7 @@ Clone your fork to your local machine:
 
 bash
 
-git clone https://github.com/SayamAlt/credit-card-approval-prediction.git
+git clone https://github.com/153-pavi/credit-card-approval-prediction.git
 
 Create a new branch for your feature or bug fix:
 
